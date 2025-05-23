@@ -60,11 +60,10 @@
 <br><br>
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabin-09&show_icons=true&locale=en&layout=compact" alt="nabin-09" /></p>
+[![Nabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabin-09&show_icons=true&layout=compact&theme=dark)](https://github.com/nabin-09)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin-09&layout=compact&theme=dark)](https://github.com/nabin-09)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabin-09&show_icons=true&locale=en" alt="nabin-09" /></p>
-<br><br>
 
 ---
 
